@@ -1,0 +1,18 @@
+# Python-Umgebung
+.venv/
+__pycache__/
+*.pyc
+
+# Datenbanken (zu groß / nicht im Repo; siehe README, Abschnitt "Daten herunterladen")
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE-Einstellungen (PyCharm)
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Lokale Claude-Code-Einstellungen
+.claude/settings.local.json
